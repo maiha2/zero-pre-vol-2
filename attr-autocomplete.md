@@ -49,16 +49,16 @@ username 欄で識別されるアカウント用の現在のパスワード（�
 ---
 
 ### Chrome(Mac)の場合
-![w:500　Chromeの入力補完用情報（住所）の設定画面](./img/Chrome.png)
+![w:500　Chromeの入力補完用情報（住所）の設定画面](./img/chrome.png)
 
 
 ---
 ### Safari(Mac)の場合
-![w:700　Safariの入力補完用情報（住所）の設定画面](./img/Safari.png)
+![w:700　Safariの入力補完用情報（住所）の設定画面](./img/safari.png)
 
 ---
 ### Firefoxの場合
-![w:1000　Firefoxのアドレス自動補完についてのサポートページ。現在はUS版のみ住所の入力補完をサポートしていると書かれている](./img/Firefox.png)
+![w:1000　Firefoxのアドレス自動補完についてのサポートページ。現在はUS版のみ住所の入力補完をサポートしていると書かれている](./img/firefox.png)
 
 ---
 
